@@ -13,7 +13,5 @@
 #### 使用说明
 1.0.0 只能计算整数（int）类型，除法中无法除以0.
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  我的博客(http://fanchuan.yum9.top/)
+#### 反馈
+1.  我的博客(http://fanchuan.yum9.top/)
